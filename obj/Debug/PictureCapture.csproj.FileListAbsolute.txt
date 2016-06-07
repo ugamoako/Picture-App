@@ -1,0 +1,34 @@
+c:\users\nich\documents\visual studio 2015\Projects\PictureCapture\PictureCapture\bin\Debug\PictureCapture.exe.config
+c:\users\nich\documents\visual studio 2015\Projects\PictureCapture\PictureCapture\bin\Debug\PictureCapture.exe
+c:\users\nich\documents\visual studio 2015\Projects\PictureCapture\PictureCapture\bin\Debug\PictureCapture.pdb
+c:\users\nich\documents\visual studio 2015\Projects\PictureCapture\PictureCapture\bin\Debug\AForge.dll
+c:\users\nich\documents\visual studio 2015\Projects\PictureCapture\PictureCapture\bin\Debug\AForge.xml
+c:\users\nich\documents\visual studio 2015\Projects\PictureCapture\PictureCapture\obj\Debug\PictureCapture.csprojResolveAssemblyReference.cache
+c:\users\nich\documents\visual studio 2015\Projects\PictureCapture\PictureCapture\obj\Debug\PictureCapture.Properties.Resources.resources
+c:\users\nich\documents\visual studio 2015\Projects\PictureCapture\PictureCapture\obj\Debug\PictureCapture.csproj.GenerateResource.Cache
+c:\users\nich\documents\visual studio 2015\Projects\PictureCapture\PictureCapture\obj\Debug\PictureCapture.exe
+c:\users\nich\documents\visual studio 2015\Projects\PictureCapture\PictureCapture\obj\Debug\PictureCapture.pdb
+c:\users\nich\documents\visual studio 2015\Projects\PictureCapture\PictureCapture\bin\Debug\AForge.Video.DirectShow.dll
+c:\users\nich\documents\visual studio 2015\Projects\PictureCapture\PictureCapture\bin\Debug\AForge.Video.dll
+c:\users\nich\documents\visual studio 2015\Projects\PictureCapture\PictureCapture\bin\Debug\AForge.Video.xml
+c:\users\nich\documents\visual studio 2015\Projects\PictureCapture\PictureCapture\bin\Debug\AForge.Video.DirectShow.xml
+c:\users\nich\documents\visual studio 2015\Projects\PictureCapture\PictureCapture\obj\Debug\PictureCapture.Form1.resources
+C:\Users\amoako\Desktop\New folder\PictureCapture\PictureCapture\bin\Debug\PictureCapture.exe.config
+C:\Users\amoako\Desktop\New folder\PictureCapture\PictureCapture\obj\Debug\PictureCapture.exe
+C:\Users\amoako\Desktop\New folder\PictureCapture\PictureCapture\obj\Debug\PictureCapture.pdb
+C:\Users\amoako\Desktop\New folder\PictureCapture\PictureCapture\obj\Debug\PictureCapture.Form1.resources
+C:\Users\amoako\Desktop\New folder\PictureCapture\PictureCapture\obj\Debug\PictureCapture.Properties.Resources.resources
+C:\Users\amoako\Desktop\New folder\PictureCapture\PictureCapture\obj\Debug\PictureCapture.csproj.GenerateResource.Cache
+C:\Users\amoako\Desktop\New folder\PictureCapture\PictureCapture\bin\Debug\PictureCapture.exe
+C:\Users\amoako\Desktop\New folder\PictureCapture\PictureCapture\bin\Debug\PictureCapture.pdb
+C:\Users\amoako\Desktop\New folder\PictureCapture\PictureCapture\bin\Debug\AForge.dll
+C:\Users\amoako\Desktop\New folder\PictureCapture\PictureCapture\bin\Debug\AForge.Imaging.dll
+C:\Users\amoako\Desktop\New folder\PictureCapture\PictureCapture\bin\Debug\AForge.Math.dll
+C:\Users\amoako\Desktop\New folder\PictureCapture\PictureCapture\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\amoako\Desktop\New folder\PictureCapture\PictureCapture\bin\Debug\AForge.Video.dll
+C:\Users\amoako\Desktop\New folder\PictureCapture\PictureCapture\bin\Debug\AForge.xml
+C:\Users\amoako\Desktop\New folder\PictureCapture\PictureCapture\bin\Debug\AForge.Imaging.xml
+C:\Users\amoako\Desktop\New folder\PictureCapture\PictureCapture\bin\Debug\AForge.Math.xml
+C:\Users\amoako\Desktop\New folder\PictureCapture\PictureCapture\bin\Debug\AForge.Video.xml
+C:\Users\amoako\Desktop\New folder\PictureCapture\PictureCapture\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\amoako\Desktop\New folder\PictureCapture\PictureCapture\obj\Debug\PictureCapture.Preview.resources
